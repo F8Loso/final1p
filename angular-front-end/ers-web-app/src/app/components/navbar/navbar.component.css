@@ -1,0 +1,30 @@
+/* The popup form - hidden by default */
+
+
+  #title{
+    color: rgb(23, 22, 31);
+    text-shadow: 2px 2px #9cec06;
+  }
+
+  h2, h3, h4{
+    text-shadow: 2px 2px #8dcf12;
+  }
+
+
+
+
+
+#home-btn, #edit-btn, #logout-btn, #reset-password-btn, #register-btn{
+  width: 145px;
+  margin: 10px;
+  margin-left: 15px;
+  border-radius: 5px;
+  font-weight: bold;
+  height: 35px;
+}
+
+.border-left{
+  border-left-color: darkblue 3px;
+  border-left-style: solid;
+}
+

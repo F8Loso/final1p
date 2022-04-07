@@ -1,0 +1,8 @@
+#add-btn, #view-btn, #view-btn-open, #view-btn-resolve, #view-btn-approved, #view-btn-denied{
+  width: 145px;
+  margin: 10px;
+  margin-left: 15px;
+  border-radius: 5px;
+  font-weight: bold;
+  height: 35px;
+  }
