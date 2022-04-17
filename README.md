@@ -32,11 +32,17 @@ Higher-UPS/Finance Managers can log in to view all reimbursement request and pas
 - Created password generator
 - Added logging features using Log4j
 
-** Front-End / Basic Features **
+** Front-End Features **
 - Created Login UI
 - Able to create and display the main dashboard UI after login
 - Populate the table containing the owned reimbursement for employee
 - Populate the account information details of the employee 
 
 ** Table Mapping / Relationships **
--`Backend technologie & annotations / AWS RDS / PostgresDB
+-`Backend technologie & annotations / AWS RDS / MySql / H2
+
+** OVERALL PROJECT FOCUS GOALS **
+- Maintain unit testing on project throughout 
+- Build project and test contionusly / adding application code  step - by - step
+- Complete user functionality for deployment 
+
