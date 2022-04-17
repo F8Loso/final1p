@@ -39,7 +39,6 @@ Higher-UPS/Finance Managers can log in to view all reimbursement request and pas
 - Populate the account information details of the employee 
 
 ** Table Mapping / Relationships **
-
 -`Backend technologie & annotations / AWS RDS / MySql / H2
 
 ** OVERALL PROJECT FOCUS GOALS **
